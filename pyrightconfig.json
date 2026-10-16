@@ -1,0 +1,9 @@
+{
+  "pythonVersion": "3.14",
+  "venvPath": "/home/marcman/insa/5a/uc_python",
+  "venv": "venv",
+  "stubPath": "/home/marcman/insa/5a/uc_python/typings",
+"extraPaths": [
+    "/home/marcman/insa/5a/uc_python/board/lib"
+  ]
+}

@@ -1,0 +1,12 @@
+Found device raspberry_pi_pico_w at /home/marcman/insa/5a/uc_python/board, running CircuitPython 10.3.1.
+Using latest bundle for adafruit/Adafruit_CircuitPython_Bundle (20261016).
+Using latest bundle for adafruit/CircuitPython_Community_Bundle (20261008).
+adafruit_requests==2.0.2
+adafruit_dht==4.0.9
+adafruit_ssd1306==2.12.21
+adafruit_framebuf==1.6.9
+adafruit_mpu6050==1.3.4
+adafruit_gps==3.11.4
+adafruit_74hc595==1.5.2
+adafruit_bus_device==5.2.13
+adafruit_register==1.11.0
